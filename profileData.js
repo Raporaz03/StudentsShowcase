@@ -136,6 +136,26 @@ const userProfiles = [
       "Docker",
     ],
   },
+  {
+    username: "user8",
+    name: "Rishabh Chaudhari",
+    city: "Chhattisgarh",
+    course: "Btech-cse",
+    work: "Fullstack Developer",
+    msgURL: "",
+    linkedinURL: "https://www.linkedin.com/in/rishabh-chaudhari-37619a294/",
+    imageUrl: "https://avatars.githubusercontent.com/u/73410445?v=4",
+    skills: [
+      "Front End Development",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJS",
+      "Node",
+      "MongoDB",
+      "Express",
+    ],
+  },
   // Add your Data order wise
 ];
 
